@@ -1,0 +1,845 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+CYP,2000-01-01,2000-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,63.939164,X,base year is 2015
+CYP,2001-01-01,2001-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,64.320908,X,base year is 2015
+CYP,2002-01-01,2002-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,71.489220,X,base year is 2015
+CYP,2003-01-01,2003-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,71.695241,X,base year is 2015
+CYP,2004-01-01,2004-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,76.070154,X,base year is 2015
+CYP,2005-01-01,2005-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,78.172778,X,base year is 2015
+CYP,2006-01-01,2006-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,80.136866,X,base year is 2015
+CYP,2007-01-01,2007-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,85.562068,X,base year is 2015
+CYP,2008-01-01,2008-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,89.293358,X,base year is 2015
+CYP,2009-01-01,2009-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,97.684857,X,base year is 2015
+CYP,2010-01-01,2010-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,95.756764,X,base year is 2015
+CYP,2011-01-01,2011-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,97.840978,X,base year is 2015
+CYP,2012-01-01,2012-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,102.493381,X,base year is 2015
+CYP,2013-01-01,2013-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,103.031998,X,base year is 2015
+CYP,2014-01-01,2014-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.832346,X,base year is 2015
+CYP,2015-01-01,2015-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,101.673746,X,base year is 2015
+CYP,2016-01-01,2016-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,101.430000,X,base year is 2015
+CYP,2017-01-01,2017-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.350000,X,base year is 2015
+CYP,2018-01-01,2018-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,96.440000,X,base year is 2015
+CYP,2019-01-01,2019-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,103.180000,X,base year is 2015
+CYP,2020-01-01,2020-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,104.120000,X,base year is 2015
+CYP,2021-01-01,2021-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,99.330000,X,base year is 2015
+CYP,2022-01-01,2022-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,102.830000,X,base year is 2015
+CYP,2023-01-01,2023-01-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,113.900000,X,base year is 2015
+CYP,2000-02-01,2000-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,64.181541,X,base year is 2015
+CYP,2001-02-01,2001-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,64.829901,X,base year is 2015
+CYP,2002-02-01,2002-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,70.471235,X,base year is 2015
+CYP,2003-02-01,2003-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,73.397943,X,base year is 2015
+CYP,2004-02-01,2004-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,76.100451,X,base year is 2015
+CYP,2005-02-01,2005-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,77.887984,X,base year is 2015
+CYP,2006-02-01,2006-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,80.191508,X,base year is 2015
+CYP,2007-02-01,2007-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,85.382529,X,base year is 2015
+CYP,2008-02-01,2008-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,91.088748,X,base year is 2015
+CYP,2009-02-01,2009-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,97.224300,X,base year is 2015
+CYP,2010-02-01,2010-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,98.161026,X,base year is 2015
+CYP,2011-02-01,2011-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,99.207036,X,base year is 2015
+CYP,2012-02-01,2012-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,102.649502,X,base year is 2015
+CYP,2013-02-01,2013-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,101.962570,X,base year is 2015
+CYP,2014-02-01,2014-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.433411,X,base year is 2015
+CYP,2015-02-01,2015-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,101.939152,X,base year is 2015
+CYP,2016-02-01,2016-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,98.700000,X,base year is 2015
+CYP,2017-02-01,2017-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,101.740000,X,base year is 2015
+CYP,2018-02-01,2018-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,97.410000,X,base year is 2015
+CYP,2019-02-01,2019-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,102.540000,X,base year is 2015
+CYP,2020-02-01,2020-02-29,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,104.260000,X,base year is 2015
+CYP,2021-02-01,2021-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,99.650000,X,base year is 2015
+CYP,2022-02-01,2022-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,107.660000,X,base year is 2015
+CYP,2023-02-01,2023-02-28,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,117.980000,X,base year is 2015
+CYP,2000-03-01,2000-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,64.660237,X,base year is 2015
+CYP,2001-03-01,2001-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,64.835960,X,base year is 2015
+CYP,2002-03-01,2002-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,70.077372,X,base year is 2015
+CYP,2003-03-01,2003-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,75.561161,X,base year is 2015
+CYP,2004-03-01,2004-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,75.227892,X,base year is 2015
+CYP,2005-03-01,2005-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,77.185090,X,base year is 2015
+CYP,2006-03-01,2006-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,81.034561,X,base year is 2015
+CYP,2007-03-01,2007-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,85.577680,X,base year is 2015
+CYP,2008-03-01,2008-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,91.533693,X,base year is 2015
+CYP,2009-03-01,2009-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,99.776877,X,base year is 2015
+CYP,2010-03-01,2010-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,97.708275,X,base year is 2015
+CYP,2011-03-01,2011-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,100.057895,X,base year is 2015
+CYP,2012-03-01,2012-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,102.087467,X,base year is 2015
+CYP,2013-03-01,2013-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,102.719756,X,base year is 2015
+CYP,2014-03-01,2014-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,99.675399,X,base year is 2015
+CYP,2015-03-01,2015-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,102.267006,X,base year is 2015
+CYP,2016-03-01,2016-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,95.920000,X,base year is 2015
+CYP,2017-03-01,2017-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,101.060000,X,base year is 2015
+CYP,2018-03-01,2018-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,98.250000,X,base year is 2015
+CYP,2019-03-01,2019-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,101.770000,X,base year is 2015
+CYP,2020-03-01,2020-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,102.140000,X,base year is 2015
+CYP,2021-03-01,2021-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,99.920000,X,base year is 2015
+CYP,2022-03-01,2022-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,109.260000,X,base year is 2015
+CYP,2023-03-01,2023-03-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,117.020000,X,base year is 2015
+CYP,2000-04-01,2000-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,64.575405,X,base year is 2015
+CYP,2001-04-01,2001-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,65.260121,X,base year is 2015
+CYP,2002-04-01,2002-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,70.846920,X,base year is 2015
+CYP,2003-04-01,2003-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,74.016005,X,base year is 2015
+CYP,2004-04-01,2004-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,75.803539,X,base year is 2015
+CYP,2005-04-01,2005-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,76.882118,X,base year is 2015
+CYP,2006-04-01,2006-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,81.221906,X,base year is 2015
+CYP,2007-04-01,2007-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,86.569048,X,base year is 2015
+CYP,2008-04-01,2008-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,91.619559,X,base year is 2015
+CYP,2009-04-01,2009-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,96.763744,X,base year is 2015
+CYP,2010-04-01,2010-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,96.428084,X,base year is 2015
+CYP,2011-04-01,2011-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,99.503666,X,base year is 2015
+CYP,2012-04-01,2012-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,100.822887,X,base year is 2015
+CYP,2013-04-01,2013-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,101.322474,X,base year is 2015
+CYP,2014-04-01,2014-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,99.246066,X,base year is 2015
+CYP,2015-04-01,2015-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.682379,X,base year is 2015
+CYP,2016-04-01,2016-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,96.090000,X,base year is 2015
+CYP,2017-04-01,2017-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,99.100000,X,base year is 2015
+CYP,2018-04-01,2018-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,98.880000,X,base year is 2015
+CYP,2019-04-01,2019-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,101.750000,X,base year is 2015
+CYP,2020-04-01,2020-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,100.410000,X,base year is 2015
+CYP,2021-04-01,2021-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,99.591802,X,base year is 2015
+CYP,2022-04-01,2022-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,110.550000,A,base year is 2015
+CYP,2023-04-01,2023-04-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,117.970000,X,base year is 2015
+CYP,2000-05-01,2000-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,65.048041,X,base year is 2015
+CYP,2001-05-01,2001-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,65.605509,X,base year is 2015
+CYP,2002-05-01,2002-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,68.962436,X,base year is 2015
+CYP,2003-05-01,2003-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,74.137194,X,base year is 2015
+CYP,2004-05-01,2004-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,76.336769,X,base year is 2015
+CYP,2005-05-01,2005-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,75.991381,X,base year is 2015
+CYP,2006-05-01,2006-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,80.644259,X,base year is 2015
+CYP,2007-05-01,2007-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,86.553436,X,base year is 2015
+CYP,2008-05-01,2008-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,92.087922,X,base year is 2015
+CYP,2009-05-01,2009-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,98.410819,X,base year is 2015
+CYP,2010-05-01,2010-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,94.663917,X,base year is 2015
+CYP,2011-05-01,2011-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,100.377943,X,base year is 2015
+CYP,2012-05-01,2012-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,100.799469,X,base year is 2015
+CYP,2013-05-01,2013-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,101.384923,X,base year is 2015
+CYP,2014-05-01,2014-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.800295,X,base year is 2015
+CYP,2015-05-01,2015-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.948610,X,base year is 2015
+CYP,2016-05-01,2016-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,98.400000,X,base year is 2015
+CYP,2017-05-01,2017-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,99.670000,X,base year is 2015
+CYP,2018-05-01,2018-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,100.690000,X,base year is 2015
+CYP,2019-05-01,2019-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,99.960000,X,base year is 2015
+CYP,2020-05-01,2020-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,103.610000,X,base year is 2015
+CYP,2021-05-01,2021-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,101.800000,X,base year is 2015
+CYP,2022-05-01,2022-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,110.530000,A,base year is 2015
+CYP,2023-05-01,2023-05-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,119.790000,X,base year is 2015
+CYP,2000-06-01,2000-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,62.684861,X,base year is 2015
+CYP,2001-06-01,2001-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,67.332448,X,base year is 2015
+CYP,2002-06-01,2002-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,68.483740,X,base year is 2015
+CYP,2003-06-01,2003-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,72.058807,X,base year is 2015
+CYP,2004-06-01,2004-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,76.239818,X,base year is 2015
+CYP,2005-06-01,2005-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,75.633874,X,base year is 2015
+CYP,2006-06-01,2006-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,80.238345,X,base year is 2015
+CYP,2007-06-01,2007-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,83.470048,X,base year is 2015
+CYP,2008-06-01,2008-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,89.886617,X,base year is 2015
+CYP,2009-06-01,2009-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,96.069005,X,base year is 2015
+CYP,2010-06-01,2010-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,93.859894,X,base year is 2015
+CYP,2011-06-01,2011-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,101.845479,X,base year is 2015
+CYP,2012-06-01,2012-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,97.591184,X,base year is 2015
+CYP,2013-06-01,2013-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,101.689358,X,base year is 2015
+CYP,2014-06-01,2014-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,100.760439,X,base year is 2015
+CYP,2015-06-01,2015-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,97.997099,X,base year is 2015
+CYP,2016-06-01,2016-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,97.760000,X,base year is 2015
+CYP,2017-06-01,2017-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,97.000000,X,base year is 2015
+CYP,2018-06-01,2018-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,100.750000,X,base year is 2015
+CYP,2019-06-01,2019-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,99.770000,X,base year is 2015
+CYP,2020-06-01,2020-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,100.390000,X,base year is 2015
+CYP,2021-06-01,2021-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,99.860000,X,base year is 2015
+CYP,2022-06-01,2022-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,107.790000,A,base year is 2015
+CYP,2023-06-01,2023-06-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,118.700000,X,base year is 2015
+CYP,2000-07-01,2000-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,64.708712,X,base year is 2015
+CYP,2001-07-01,2001-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,65.078338,X,base year is 2015
+CYP,2002-07-01,2002-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,67.290032,X,base year is 2015
+CYP,2003-07-01,2003-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,71.040822,X,base year is 2015
+CYP,2004-07-01,2004-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,76.476136,X,base year is 2015
+CYP,2005-07-01,2005-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,76.245877,X,base year is 2015
+CYP,2006-07-01,2006-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,80.011969,X,base year is 2015
+CYP,2007-07-01,2007-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,85.062481,X,base year is 2015
+CYP,2008-07-01,2008-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,91.338542,X,base year is 2015
+CYP,2009-07-01,2009-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,95.007383,X,base year is 2015
+CYP,2010-07-01,2010-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,94.281421,X,base year is 2015
+CYP,2011-07-01,2011-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,100.721409,X,base year is 2015
+CYP,2012-07-01,2012-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,99.191424,X,base year is 2015
+CYP,2013-07-01,2013-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,101.080487,X,base year is 2015
+CYP,2014-07-01,2014-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,100.760439,X,base year is 2015
+CYP,2015-07-01,2015-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,95.249371,X,base year is 2015
+CYP,2016-07-01,2016-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,104.530000,X,base year is 2015
+CYP,2017-07-01,2017-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,98.450000,X,base year is 2015
+CYP,2018-07-01,2018-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,100.810000,X,base year is 2015
+CYP,2019-07-01,2019-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,99.180000,X,base year is 2015
+CYP,2020-07-01,2020-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,97.740000,X,base year is 2015
+CYP,2021-07-01,2021-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,101.670000,X,base year is 2015
+CYP,2022-07-01,2022-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,109.320000,X,base year is 2015
+CYP,2023-07-01,2023-07-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,120.140000,A,base year is 2015
+CYP,2000-08-01,2000-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,64.242136,X,base year is 2015
+CYP,2001-08-01,2001-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,67.211259,X,base year is 2015
+CYP,2002-08-01,2002-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,70.380344,X,base year is 2015
+CYP,2003-08-01,2003-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,73.149506,X,base year is 2015
+CYP,2004-08-01,2004-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,77.082079,X,base year is 2015
+CYP,2005-08-01,2005-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,78.003114,X,base year is 2015
+CYP,2006-08-01,2006-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,81.424864,X,base year is 2015
+CYP,2007-08-01,2007-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,87.825821,X,base year is 2015
+CYP,2008-08-01,2008-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,93.695968,X,base year is 2015
+CYP,2009-08-01,2009-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,93.032454,X,base year is 2015
+CYP,2010-08-01,2010-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,98.410819,X,base year is 2015
+CYP,2011-08-01,2011-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,99.901774,X,base year is 2015
+CYP,2012-08-01,2012-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,102.368484,X,base year is 2015
+CYP,2013-08-01,2013-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,101.174159,X,base year is 2015
+CYP,2014-08-01,2014-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,100.135955,X,base year is 2015
+CYP,2015-08-01,2015-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,97.856590,X,base year is 2015
+CYP,2016-08-01,2016-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,103.300000,X,base year is 2015
+CYP,2017-08-01,2017-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,99.780000,X,base year is 2015
+CYP,2018-08-01,2018-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,103.170000,X,base year is 2015
+CYP,2019-08-01,2019-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,99.880000,X,base year is 2015
+CYP,2020-08-01,2020-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,100.560000,X,base year is 2015
+CYP,2021-08-01,2021-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,108.830000,X,base year is 2015
+CYP,2022-08-01,2022-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,111.350000,X,base year is 2015
+CYP,2023-08-01,2023-08-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,122.430000,A,base year is 2015
+CYP,2000-09-01,2000-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,63.781618,X,base year is 2015
+CYP,2001-09-01,2001-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,68.089877,X,base year is 2015
+CYP,2002-09-01,2002-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,70.465176,X,base year is 2015
+CYP,2003-09-01,2003-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,75.215773,X,base year is 2015
+CYP,2004-09-01,2004-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,76.536730,X,base year is 2015
+CYP,2005-09-01,2005-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,79.299833,X,base year is 2015
+CYP,2006-09-01,2006-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,83.493466,X,base year is 2015
+CYP,2007-09-01,2007-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,88.981116,X,base year is 2015
+CYP,2008-09-01,2008-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,97.060373,X,base year is 2015
+CYP,2009-09-01,2009-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,94.273615,X,base year is 2015
+CYP,2010-09-01,2010-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,101.010232,X,base year is 2015
+CYP,2011-09-01,2011-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,100.682379,X,base year is 2015
+CYP,2012-09-01,2012-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,103.016386,X,base year is 2015
+CYP,2013-09-01,2013-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,101.502013,X,base year is 2015
+CYP,2014-09-01,2014-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,100.838499,X,base year is 2015
+CYP,2015-09-01,2015-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.355351,X,base year is 2015
+CYP,2016-09-01,2016-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,102.400000,X,base year is 2015
+CYP,2017-09-01,2017-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,99.510000,X,base year is 2015
+CYP,2018-09-01,2018-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,103.090000,X,base year is 2015
+CYP,2019-09-01,2019-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,100.740000,X,base year is 2015
+CYP,2020-09-01,2020-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,103.010000,X,base year is 2015
+CYP,2021-09-01,2021-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,104.520000,X,base year is 2015
+CYP,2022-09-01,2022-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,112.560000,A,base year is 2015
+CYP,2023-09-01,2023-09-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,123.780000,A,base year is 2015
+CYP,2000-10-01,2000-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,64.484513,X,base year is 2015
+CYP,2001-10-01,2001-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,70.962050,X,base year is 2015
+CYP,2002-10-01,2002-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,70.604543,X,base year is 2015
+CYP,2003-10-01,2003-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,74.494701,X,base year is 2015
+CYP,2004-10-01,2004-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,76.766989,X,base year is 2015
+CYP,2005-10-01,2005-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,79.742172,X,base year is 2015
+CYP,2006-10-01,2006-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,84.172592,X,base year is 2015
+CYP,2007-10-01,2007-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,86.686138,X,base year is 2015
+CYP,2008-10-01,2008-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,97.169658,X,base year is 2015
+CYP,2009-10-01,2009-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,94.258003,X,base year is 2015
+CYP,2010-10-01,2010-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,99.870550,X,base year is 2015
+CYP,2011-10-01,2011-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,100.994620,X,base year is 2015
+CYP,2012-10-01,2012-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,102.235782,X,base year is 2015
+CYP,2013-10-01,2013-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,102.907102,X,base year is 2015
+CYP,2014-10-01,2014-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,101.470789,X,base year is 2015
+CYP,2015-10-01,2015-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.900948,X,base year is 2015
+CYP,2016-10-01,2016-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,98.850000,X,base year is 2015
+CYP,2017-10-01,2017-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,99.340000,X,base year is 2015
+CYP,2018-10-01,2018-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,102.260000,X,base year is 2015
+CYP,2019-10-01,2019-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,99.070000,X,base year is 2015
+CYP,2020-10-01,2020-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,102.260000,X,base year is 2015
+CYP,2021-10-01,2021-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,102.050000,X,base year is 2015
+CYP,2022-10-01,2022-10-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,115.480000,A,base year is 2015
+CYP,2000-11-01,2000-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,65.599449,X,base year is 2015
+CYP,2001-11-01,2001-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,69.847113,X,base year is 2015
+CYP,2002-11-01,2002-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,70.653018,X,base year is 2015
+CYP,2003-11-01,2003-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,75.264249,X,base year is 2015
+CYP,2004-11-01,2004-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,77.791033,X,base year is 2015
+CYP,2005-11-01,2005-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,80.923762,X,base year is 2015
+CYP,2006-11-01,2006-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,84.617536,X,base year is 2015
+CYP,2007-11-01,2007-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,86.920320,X,base year is 2015
+CYP,2008-11-01,2008-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,95.491358,X,base year is 2015
+CYP,2009-11-01,2009-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,97.497512,X,base year is 2015
+CYP,2010-11-01,2010-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,95.319625,X,base year is 2015
+CYP,2011-11-01,2011-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,102.704144,X,base year is 2015
+CYP,2012-11-01,2012-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,101.049263,X,base year is 2015
+CYP,2013-11-01,2013-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.910406,X,base year is 2015
+CYP,2014-11-01,2014-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,101.275638,X,base year is 2015
+CYP,2015-11-01,2015-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,102.110885,X,base year is 2015
+CYP,2016-11-01,2016-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,98.720000,X,base year is 2015
+CYP,2017-11-01,2017-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,98.920000,X,base year is 2015
+CYP,2018-11-01,2018-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,101.810000,X,base year is 2015
+CYP,2019-11-01,2019-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,100.400000,X,base year is 2015
+CYP,2020-11-01,2020-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,104.120000,X,base year is 2015
+CYP,2021-11-01,2021-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,100.880000,X,base year is 2015
+CYP,2022-11-01,2022-11-30,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,116.480000,A,base year is 2015
+CYP,2000-12-01,2000-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,65.569152,X,base year is 2015
+CYP,2001-12-01,2001-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,71.749776,X,base year is 2015
+CYP,2002-12-01,2002-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,72.313304,X,base year is 2015
+CYP,2003-12-01,2003-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,75.021871,X,base year is 2015
+CYP,2004-12-01,2004-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,79.760350,X,base year is 2015
+CYP,2005-12-01,2005-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,78.833256,X,base year is 2015
+CYP,2006-12-01,2006-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,84.461415,X,base year is 2015
+CYP,2007-12-01,2007-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,87.630670,X,base year is 2015
+CYP,2008-12-01,2008-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,94.624887,X,base year is 2015
+CYP,2009-12-01,2009-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,96.029975,X,base year is 2015
+CYP,2010-12-01,2010-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,93.329083,X,base year is 2015
+CYP,2011-12-01,2011-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,102.227976,X,base year is 2015
+CYP,2012-12-01,2012-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,101.603492,X,base year is 2015
+CYP,2013-12-01,2013-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,100.760439,X,base year is 2015
+CYP,2014-12-01,2014-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,98.496686,X,base year is 2015
+CYP,2015-12-01,2015-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.018865,X,base year is 2015
+CYP,2016-12-01,2016-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,100.780000,X,base year is 2015
+CYP,2017-12-01,2017-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,96.470000,X,base year is 2015
+CYP,2018-12-01,2018-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,98.500000,X,base year is 2015
+CYP,2019-12-01,2019-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,100.270000,X,base year is 2015
+CYP,2020-12-01,2020-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,100.640000,X,base year is 2015
+CYP,2021-12-01,2021-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,100.450000,X,base year is 2015
+CYP,2022-12-01,2022-12-31,50,'196,Cyprus,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,113.080000,A,base year is 2015
+CYP,2000-01-01,2000-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,75.199872,X,base year is 2015
+CYP,2001-01-01,2001-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,76.279709,X,base year is 2015
+CYP,2002-01-01,2002-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,78.338599,X,base year is 2015
+CYP,2003-01-01,2003-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,81.549315,X,base year is 2015
+CYP,2004-01-01,2004-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,83.025093,X,base year is 2015
+CYP,2005-01-01,2005-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,85.465525,X,base year is 2015
+CYP,2006-01-01,2006-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,87.535837,X,base year is 2015
+CYP,2007-01-01,2007-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,88.972992,X,base year is 2015
+CYP,2008-01-01,2008-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,92.831537,X,base year is 2015
+CYP,2009-01-01,2009-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,93.859321,X,base year is 2015
+CYP,2010-01-01,2010-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,96.141350,X,base year is 2015
+CYP,2011-01-01,2011-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,98.867591,X,base year is 2015
+CYP,2012-01-01,2012-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,101.950942,X,base year is 2015
+CYP,2013-01-01,2013-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,103.814890,X,base year is 2015
+CYP,2014-01-01,2014-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,100.818638,X,base year is 2015
+CYP,2015-01-01,2015-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.494713,X,base year is 2015
+CYP,2016-01-01,2016-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,98.021320,X,base year is 2015
+CYP,2017-01-01,2017-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,98.531327,X,base year is 2015
+CYP,2018-01-01,2018-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,97.821317,X,base year is 2015
+CYP,2019-01-01,2019-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,99.761343,X,base year is 2015
+CYP,2020-01-01,2020-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,100.831358,X,base year is 2015
+CYP,2021-01-01,2021-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,99.211336,X,base year is 2015
+CYP,2022-01-01,2022-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,104.571408,X,base year is 2015
+CYP,2023-01-01,2023-01-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,112.011508,X,base year is 2015
+CYP,2000-02-01,2000-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,74.328803,X,base year is 2015
+CYP,2001-02-01,2001-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,76.114134,X,base year is 2015
+CYP,2002-02-01,2002-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,78.165825,X,base year is 2015
+CYP,2003-02-01,2003-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,81.635702,X,base year is 2015
+CYP,2004-02-01,2004-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,83.154673,X,base year is 2015
+CYP,2005-02-01,2005-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,85.487122,X,base year is 2015
+CYP,2006-02-01,2006-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,87.640357,X,base year is 2015
+CYP,2007-02-01,2007-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,88.912022,X,base year is 2015
+CYP,2008-02-01,2008-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,93.293169,X,base year is 2015
+CYP,2009-02-01,2009-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,93.911581,X,base year is 2015
+CYP,2010-02-01,2010-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,96.611692,X,base year is 2015
+CYP,2011-02-01,2011-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,99.294382,X,base year is 2015
+CYP,2012-02-01,2012-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,102.360314,X,base year is 2015
+CYP,2013-02-01,2013-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,104.041350,X,base year is 2015
+CYP,2014-02-01,2014-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,101.358660,X,base year is 2015
+CYP,2015-02-01,2015-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.930215,X,base year is 2015
+CYP,2016-02-01,2016-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,97.241309,X,base year is 2015
+CYP,2017-02-01,2017-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,98.871331,X,base year is 2015
+CYP,2018-02-01,2018-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,98.561327,X,base year is 2015
+CYP,2019-02-01,2019-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,99.791344,X,base year is 2015
+CYP,2020-02-01,2020-02-29,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,101.231363,X,base year is 2015
+CYP,2021-02-01,2021-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,99.321337,X,base year is 2015
+CYP,2022-02-01,2022-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,105.841425,X,base year is 2015
+CYP,2023-02-01,2023-02-28,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,112.881520,X,base year is 2015
+CYP,2000-03-01,2000-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,75.746989,X,base year is 2015
+CYP,2001-03-01,2001-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,76.834025,X,base year is 2015
+CYP,2002-03-01,2002-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,78.648152,X,base year is 2015
+CYP,2003-03-01,2003-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,83.341845,X,base year is 2015
+CYP,2004-03-01,2004-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,83.680194,X,base year is 2015
+CYP,2005-03-01,2005-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,86.099030,X,base year is 2015
+CYP,2006-03-01,2006-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,88.676851,X,base year is 2015
+CYP,2007-03-01,2007-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,90.000776,X,base year is 2015
+CYP,2008-03-01,2008-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,94.233853,X,base year is 2015
+CYP,2009-03-01,2009-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,95.252927,X,base year is 2015
+CYP,2010-03-01,2010-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,97.534955,X,base year is 2015
+CYP,2011-03-01,2011-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,100.269906,X,base year is 2015
+CYP,2012-03-01,2012-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,103.649399,X,base year is 2015
+CYP,2013-03-01,2013-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,104.755573,X,base year is 2015
+CYP,2014-03-01,2014-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,102.360314,X,base year is 2015
+CYP,2015-03-01,2015-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.435397,X,base year is 2015
+CYP,2016-03-01,2016-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,97.891318,X,base year is 2015
+CYP,2017-03-01,2017-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,99.761343,X,base year is 2015
+CYP,2018-03-01,2018-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,99.271337,X,base year is 2015
+CYP,2019-03-01,2019-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,100.621355,X,base year is 2015
+CYP,2020-03-01,2020-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,101.341365,X,base year is 2015
+CYP,2021-03-01,2021-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,100.611355,X,base year is 2015
+CYP,2022-03-01,2022-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,107.781451,X,base year is 2015
+CYP,2023-03-01,2023-03-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,114.031535,X,base year is 2015
+CYP,2000-04-01,2000-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,76.056542,X,base year is 2015
+CYP,2001-04-01,2001-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,77.381143,X,base year is 2015
+CYP,2002-04-01,2002-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,79.432834,X,base year is 2015
+CYP,2003-04-01,2003-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,83.867366,X,base year is 2015
+CYP,2004-04-01,2004-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,84.270505,X,base year is 2015
+CYP,2005-04-01,2005-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,86.869314,X,base year is 2015
+CYP,2006-04-01,2006-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,89.408494,X,base year is 2015
+CYP,2007-04-01,2007-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,90.995425,X,base year is 2015
+CYP,2008-04-01,2008-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,95.200666,X,base year is 2015
+CYP,2009-04-01,2009-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,95.871339,X,base year is 2015
+CYP,2010-04-01,2010-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,98.214338,X,base year is 2015
+CYP,2011-04-01,2011-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,101.437050,X,base year is 2015
+CYP,2012-04-01,2012-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,104.563952,X,base year is 2015
+CYP,2013-04-01,2013-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,104.250391,X,base year is 2015
+CYP,2014-04-01,2014-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,102.586775,X,base year is 2015
+CYP,2015-04-01,2015-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.461527,X,base year is 2015
+CYP,2016-04-01,2016-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,98.051320,X,base year is 2015
+CYP,2017-04-01,2017-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,100.011347,X,base year is 2015
+CYP,2018-04-01,2018-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,99.871345,X,base year is 2015
+CYP,2019-04-01,2019-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,101.041361,X,base year is 2015
+CYP,2020-04-01,2020-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,99.821344,X,base year is 2015
+CYP,2021-04-01,2021-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,101.431366,X,base year is 2015
+CYP,2022-04-01,2022-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,110.361486,X,base year is 2015
+CYP,2023-04-01,2023-04-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,114.391540,X,base year is 2015
+CYP,2000-05-01,2000-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,76.351698,X,base year is 2015
+CYP,2001-05-01,2001-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,77.647503,X,base year is 2015
+CYP,2002-05-01,2002-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,79.476027,X,base year is 2015
+CYP,2003-05-01,2003-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,83.536216,X,base year is 2015
+CYP,2004-05-01,2004-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,84.781628,X,base year is 2015
+CYP,2005-05-01,2005-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,86.854916,X,base year is 2015
+CYP,2006-05-01,2006-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,89.486884,X,base year is 2015
+CYP,2007-05-01,2007-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,91.455352,X,base year is 2015
+CYP,2008-05-01,2008-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,95.975859,X,base year is 2015
+CYP,2009-05-01,2009-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,96.585562,X,base year is 2015
+CYP,2010-05-01,2010-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,98.135948,X,base year is 2015
+CYP,2011-05-01,2011-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,101.942232,X,base year is 2015
+CYP,2012-05-01,2012-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,104.947194,X,base year is 2015
+CYP,2013-05-01,2013-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,104.224261,X,base year is 2015
+CYP,2014-05-01,2014-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,102.804526,X,base year is 2015
+CYP,2015-05-01,2015-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.757668,X,base year is 2015
+CYP,2016-05-01,2016-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,98.661329,X,base year is 2015
+CYP,2017-05-01,2017-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,99.701343,X,base year is 2015
+CYP,2018-05-01,2018-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,100.961359,X,base year is 2015
+CYP,2019-05-01,2019-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,101.181362,X,base year is 2015
+CYP,2020-05-01,2020-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,99.691342,X,base year is 2015
+CYP,2021-05-01,2021-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,102.071374,X,base year is 2015
+CYP,2022-05-01,2022-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,111.371500,X,base year is 2015
+CYP,2023-05-01,2023-05-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,114.721545,X,base year is 2015
+CYP,2000-06-01,2000-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,75.948559,X,base year is 2015
+CYP,2001-06-01,2001-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,78.230615,X,base year is 2015
+CYP,2002-06-01,2002-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,79.821575,X,base year is 2015
+CYP,2003-06-01,2003-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,83.032292,X,base year is 2015
+CYP,2004-06-01,2004-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,85.357541,X,base year is 2015
+CYP,2005-06-01,2005-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,86.811722,X,base year is 2015
+CYP,2006-06-01,2006-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,89.600115,X,base year is 2015
+CYP,2007-06-01,2007-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,91.263731,X,base year is 2015
+CYP,2008-06-01,2008-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,96.254580,X,base year is 2015
+CYP,2009-06-01,2009-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,96.454911,X,base year is 2015
+CYP,2010-06-01,2010-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,98.327568,X,base year is 2015
+CYP,2011-06-01,2011-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,102.447414,X,base year is 2015
+CYP,2012-06-01,2012-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,104.259101,X,base year is 2015
+CYP,2013-06-01,2013-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,104.337492,X,base year is 2015
+CYP,2014-06-01,2014-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,103.100667,X,base year is 2015
+CYP,2015-06-01,2015-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.600887,X,base year is 2015
+CYP,2016-06-01,2016-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,98.521327,X,base year is 2015
+CYP,2017-06-01,2017-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,99.191336,X,base year is 2015
+CYP,2018-06-01,2018-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,101.491367,X,base year is 2015
+CYP,2019-06-01,2019-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,101.291364,X,base year is 2015
+CYP,2020-06-01,2020-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,99.271337,X,base year is 2015
+CYP,2021-06-01,2021-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,102.391379,X,base year is 2015
+CYP,2022-06-01,2022-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,112.241511,X,base year is 2015
+CYP,2023-06-01,2023-06-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,114.381540,X,base year is 2015
+CYP,2000-07-01,2000-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,75.926962,X,base year is 2015
+CYP,2001-07-01,2001-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,76.697246,X,base year is 2015
+CYP,2002-07-01,2002-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,79.245662,X,base year is 2015
+CYP,2003-07-01,2003-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,81.887664,X,base year is 2015
+CYP,2004-07-01,2004-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,84.587257,X,base year is 2015
+CYP,2005-07-01,2005-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,86.199814,X,base year is 2015
+CYP,2006-07-01,2006-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,88.432970,X,base year is 2015
+CYP,2007-07-01,2007-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,90.584349,X,base year is 2015
+CYP,2008-07-01,2008-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,95.679718,X,base year is 2015
+CYP,2009-07-01,2009-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,94.913235,X,base year is 2015
+CYP,2010-07-01,2010-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,97.352045,X,base year is 2015
+CYP,2011-07-01,2011-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,100.940579,X,base year is 2015
+CYP,2012-07-01,2012-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,103.135507,X,base year is 2015
+CYP,2013-07-01,2013-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,102.813236,X,base year is 2015
+CYP,2014-07-01,2014-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,102.212243,X,base year is 2015
+CYP,2015-07-01,2015-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.172442,X,base year is 2015
+CYP,2016-07-01,2016-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,98.711329,X,base year is 2015
+CYP,2017-07-01,2017-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,98.031320,X,base year is 2015
+CYP,2018-07-01,2018-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,100.321351,X,base year is 2015
+CYP,2019-07-01,2019-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,100.021347,X,base year is 2015
+CYP,2020-07-01,2020-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,98.521327,X,base year is 2015
+CYP,2021-07-01,2021-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,102.501380,X,base year is 2015
+CYP,2022-07-01,2022-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,113.631530,X,base year is 2015
+CYP,2023-07-01,2023-07-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,115.300000,A,base year is 2015
+CYP,2000-08-01,2000-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,75.754188,X,base year is 2015
+CYP,2001-08-01,2001-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,77.121982,X,base year is 2015
+CYP,2002-08-01,2002-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,80.030344,X,base year is 2015
+CYP,2003-08-01,2003-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,82.384389,X,base year is 2015
+CYP,2004-08-01,2004-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,85.019192,X,base year is 2015
+CYP,2005-08-01,2005-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,86.811722,X,base year is 2015
+CYP,2006-08-01,2006-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,88.903312,X,base year is 2015
+CYP,2007-08-01,2007-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,91.098241,X,base year is 2015
+CYP,2008-08-01,2008-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,96.019410,X,base year is 2015
+CYP,2009-08-01,2009-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,95.070016,X,base year is 2015
+CYP,2010-08-01,2010-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,98.153368,X,base year is 2015
+CYP,2011-08-01,2011-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,100.992839,X,base year is 2015
+CYP,2012-08-01,2012-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,103.692949,X,base year is 2015
+CYP,2013-08-01,2013-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,102.708715,X,base year is 2015
+CYP,2014-08-01,2014-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,101.968362,X,base year is 2015
+CYP,2015-08-01,2015-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.250832,X,base year is 2015
+CYP,2016-08-01,2016-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,98.631328,X,base year is 2015
+CYP,2017-08-01,2017-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,98.481326,X,base year is 2015
+CYP,2018-08-01,2018-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,100.981360,X,base year is 2015
+CYP,2019-08-01,2019-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,100.321351,X,base year is 2015
+CYP,2020-08-01,2020-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,99.101334,X,base year is 2015
+CYP,2021-08-01,2021-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,104.091402,X,base year is 2015
+CYP,2022-08-01,2022-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,113.341526,X,base year is 2015
+CYP,2023-08-01,2023-08-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,116.340000,A,base year is 2015
+CYP,2000-09-01,2000-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,76.682848,X,base year is 2015
+CYP,2001-09-01,2001-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,78.252212,X,base year is 2015
+CYP,2002-09-01,2002-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,80.923009,X,base year is 2015
+CYP,2003-09-01,2003-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,83.867366,X,base year is 2015
+CYP,2004-09-01,2004-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,85.854266,X,base year is 2015
+CYP,2005-09-01,2005-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,88.373887,X,base year is 2015
+CYP,2006-09-01,2006-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,89.922386,X,base year is 2015
+CYP,2007-09-01,2007-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,92.291515,X,base year is 2015
+CYP,2008-09-01,2008-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,97.212684,X,base year is 2015
+CYP,2009-09-01,2009-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,96.019410,X,base year is 2015
+CYP,2010-09-01,2010-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,99.416323,X,base year is 2015
+CYP,2011-09-01,2011-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,101.785452,X,base year is 2015
+CYP,2012-09-01,2012-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,104.346202,X,base year is 2015
+CYP,2013-09-01,2013-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,103.274867,X,base year is 2015
+CYP,2014-09-01,2014-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,102.334184,X,base year is 2015
+CYP,2015-09-01,2015-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.747304,X,base year is 2015
+CYP,2016-09-01,2016-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,99.141335,X,base year is 2015
+CYP,2017-09-01,2017-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,98.761330,X,base year is 2015
+CYP,2018-09-01,2018-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,101.851371,X,base year is 2015
+CYP,2019-09-01,2019-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,100.891359,X,base year is 2015
+CYP,2020-09-01,2020-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,99.951346,X,base year is 2015
+CYP,2021-09-01,2021-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,104.031401,X,base year is 2015
+CYP,2022-09-01,2022-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,113.121523,X,base year is 2015
+CYP,2023-09-01,2023-09-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,117.670000,A,base year is 2015
+CYP,2000-10-01,2000-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,77.150778,X,base year is 2015
+CYP,2001-10-01,2001-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,79.238463,X,base year is 2015
+CYP,2002-10-01,2002-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,81.232563,X,base year is 2015
+CYP,2003-10-01,2003-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,84.551263,X,base year is 2015
+CYP,2004-10-01,2004-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,86.696540,X,base year is 2015
+CYP,2005-10-01,2005-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,89.360138,X,base year is 2015
+CYP,2006-10-01,2006-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,90.444988,X,base year is 2015
+CYP,2007-10-01,2007-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,93.153809,X,base year is 2015
+CYP,2008-10-01,2008-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,98.031427,X,base year is 2015
+CYP,2009-10-01,2009-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,97.247524,X,base year is 2015
+CYP,2010-10-01,2010-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,100.208936,X,base year is 2015
+CYP,2011-10-01,2011-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,103.257447,X,base year is 2015
+CYP,2012-10-01,2012-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,105.051714,X,base year is 2015
+CYP,2013-10-01,2013-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,103.370678,X,base year is 2015
+CYP,2014-10-01,2014-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,102.865496,X,base year is 2015
+CYP,2015-10-01,2015-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.261196,X,base year is 2015
+CYP,2016-10-01,2016-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,99.221336,X,base year is 2015
+CYP,2017-10-01,2017-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,99.341338,X,base year is 2015
+CYP,2018-10-01,2018-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,102.291377,X,base year is 2015
+CYP,2019-10-01,2019-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,101.291364,X,base year is 2015
+CYP,2020-10-01,2020-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,100.511353,X,base year is 2015
+CYP,2021-10-01,2021-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,104.791411,X,base year is 2015
+CYP,2022-10-01,2022-10-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,114.011535,X,base year is 2015
+CYP,2000-11-01,2000-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,77.546718,X,base year is 2015
+CYP,2001-11-01,2001-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,79.094485,X,base year is 2015
+CYP,2002-11-01,2002-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,81.354944,X,base year is 2015
+CYP,2003-11-01,2003-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,84.652048,X,base year is 2015
+CYP,2004-11-01,2004-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,87.178867,X,base year is 2015
+CYP,2005-11-01,2005-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,89.676891,X,base year is 2015
+CYP,2006-11-01,2006-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,90.636609,X,base year is 2015
+CYP,2007-11-01,2007-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,93.833191,X,base year is 2015
+CYP,2008-11-01,2008-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,97.055904,X,base year is 2015
+CYP,2009-11-01,2009-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,98.379829,X,base year is 2015
+CYP,2010-11-01,2010-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,99.843114,X,base year is 2015
+CYP,2011-11-01,2011-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,103.588429,X,base year is 2015
+CYP,2012-11-01,2012-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,104.833963,X,base year is 2015
+CYP,2013-11-01,2013-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,102.630325,X,base year is 2015
+CYP,2014-11-01,2014-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,102.473544,X,base year is 2015
+CYP,2015-11-01,2015-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.304746,X,base year is 2015
+CYP,2016-11-01,2016-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,99.161335,X,base year is 2015
+CYP,2017-11-01,2017-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,99.441339,X,base year is 2015
+CYP,2018-11-01,2018-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,102.091375,X,base year is 2015
+CYP,2019-11-01,2019-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,101.601368,X,base year is 2015
+CYP,2020-11-01,2020-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,100.981360,X,base year is 2015
+CYP,2021-11-01,2021-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,105.361419,X,base year is 2015
+CYP,2022-11-01,2022-11-30,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,114.551542,X,base year is 2015
+CYP,2000-12-01,2000-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,77.654702,X,base year is 2015
+CYP,2001-12-01,2001-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,79.497624,X,base year is 2015
+CYP,2002-12-01,2002-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,81.837272,X,base year is 2015
+CYP,2003-12-01,2003-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,83.874565,X,base year is 2015
+CYP,2004-12-01,2004-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,87.394834,X,base year is 2015
+CYP,2005-12-01,2005-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,89.129773,X,base year is 2015
+CYP,2006-12-01,2006-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,90.584349,X,base year is 2015
+CYP,2007-12-01,2007-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,94.129332,X,base year is 2015
+CYP,2008-12-01,2008-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,96.106510,X,base year is 2015
+CYP,2009-12-01,2009-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,98.074977,X,base year is 2015
+CYP,2010-12-01,2010-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,99.686334,X,base year is 2015
+CYP,2011-12-01,2011-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,103.605849,X,base year is 2015
+CYP,2012-12-01,2012-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,104.746863,X,base year is 2015
+CYP,2013-12-01,2013-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,102.334184,X,base year is 2015
+CYP,2014-12-01,2014-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,100.836058,X,base year is 2015
+CYP,2015-12-01,2015-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,99.599233,X,base year is 2015
+CYP,2016-12-01,2016-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,99.611341,X,base year is 2015
+CYP,2017-12-01,2017-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,99.031334,X,base year is 2015
+CYP,2018-12-01,2018-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,100.711356,X,base year is 2015
+CYP,2019-12-01,2019-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,101.431366,X,base year is 2015
+CYP,2020-12-01,2020-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,100.271350,X,base year is 2015
+CYP,2021-12-01,2021-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,105.101415,X,base year is 2015
+CYP,2022-12-01,2022-12-31,50,'196,Cyprus,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,113.431527,X,base year is 2015
+CYP,2001-01-01,2001-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,0.597043,E,
+CYP,2002-01-01,2002-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,11.144607,E,
+CYP,2003-01-01,2003-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,0.288184,E,
+CYP,2004-01-01,2004-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,6.102096,E,
+CYP,2005-01-01,2005-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,2.764059,E,
+CYP,2006-01-01,2006-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,2.512496,E,
+CYP,2007-01-01,2007-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,6.769920,E,
+CYP,2008-01-01,2008-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,4.360916,E,
+CYP,2009-01-01,2009-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,9.397675,E,
+CYP,2010-01-01,2010-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,-1.973789,E,
+CYP,2011-01-01,2011-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,2.176571,E,
+CYP,2012-01-01,2012-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,4.755066,E,
+CYP,2013-01-01,2013-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,0.525514,E,
+CYP,2014-01-01,2014-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,-4.076066,E,
+CYP,2015-01-01,2015-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,2.874970,E,
+CYP,2016-01-01,2016-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,-0.239734,E,
+CYP,2017-01-01,2017-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,0.907029,E,
+CYP,2018-01-01,2018-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,-5.774304,E,
+CYP,2019-01-01,2019-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,6.988801,E,
+CYP,2020-01-01,2020-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,0.911029,E,
+CYP,2021-01-01,2021-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,-4.600461,E,
+CYP,2022-01-01,2022-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,3.523608,E,
+CYP,2023-01-01,2023-01-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,10.765341,E,
+CYP,2001-02-01,2001-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,1.010196,E,
+CYP,2002-02-01,2002-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,8.701748,E,
+CYP,2003-02-01,2003-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,4.153052,E,
+CYP,2004-02-01,2004-02-29,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,3.681995,E,
+CYP,2005-02-01,2005-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,2.348913,E,
+CYP,2006-02-01,2006-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,2.957483,E,
+CYP,2007-02-01,2007-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,6.473279,E,
+CYP,2008-02-01,2008-02-29,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,6.683123,E,
+CYP,2009-02-01,2009-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,6.735796,E,
+CYP,2010-02-01,2010-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,0.963468,E,
+CYP,2011-02-01,2011-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,1.065606,E,
+CYP,2012-02-01,2012-02-29,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,3.469982,E,
+CYP,2013-02-01,2013-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,-0.669202,E,
+CYP,2014-02-01,2014-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,-2.480478,E,
+CYP,2015-02-01,2015-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,2.520019,E,
+CYP,2016-02-01,2016-02-29,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,-3.177535,E,
+CYP,2017-02-01,2017-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,3.080041,E,
+CYP,2018-02-01,2018-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,-4.255947,E,
+CYP,2019-02-01,2019-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,5.266400,E,
+CYP,2020-02-01,2020-02-29,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,1.677394,E,
+CYP,2021-02-01,2021-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,-4.421638,E,
+CYP,2022-02-01,2022-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,8.038133,E,
+CYP,2023-02-01,2023-02-28,50,'196,Cyprus,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,9.585733,E,
+CYP,2001-03-01,2001-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,0.271765,E,
+CYP,2002-03-01,2002-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,8.084112,E,
+CYP,2003-03-01,2003-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,7.825335,E,
+CYP,2004-03-01,2004-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,-0.441059,E,
+CYP,2005-03-01,2005-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,2.601692,E,
+CYP,2006-03-01,2006-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,4.987325,E,
+CYP,2007-03-01,2007-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,5.606396,E,
+CYP,2008-03-01,2008-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,6.959774,E,
+CYP,2009-03-01,2009-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,9.005629,E,
+CYP,2010-03-01,2010-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,-2.073228,E,
+CYP,2011-03-01,2011-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,2.404730,E,
+CYP,2012-03-01,2012-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,2.028398,E,
+CYP,2013-03-01,2013-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,0.619361,E,
+CYP,2014-03-01,2014-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,-2.963751,E,
+CYP,2015-03-01,2015-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,2.600047,E,
+CYP,2016-03-01,2016-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,-6.206308,E,
+CYP,2017-03-01,2017-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,5.358632,E,
+CYP,2018-03-01,2018-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,-2.780526,E,
+CYP,2019-03-01,2019-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,3.582697,E,
+CYP,2020-03-01,2020-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,0.363565,E,
+CYP,2021-03-01,2021-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,-2.173487,E,
+CYP,2022-03-01,2022-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,9.347478,E,
+CYP,2023-03-01,2023-03-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,7.102325,E,
+CYP,2001-04-01,2001-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,1.060336,E,
+CYP,2002-04-01,2002-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,8.560817,E,
+CYP,2003-04-01,2003-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,4.473144,E,
+CYP,2004-04-01,2004-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,2.415063,E,
+CYP,2005-04-01,2005-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,1.422862,E,
+CYP,2006-04-01,2006-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,5.644730,E,
+CYP,2007-04-01,2007-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,6.583373,E,
+CYP,2008-04-01,2008-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,5.834085,E,
+CYP,2009-04-01,2009-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,5.614723,E,
+CYP,2010-04-01,2010-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,-0.346886,E,
+CYP,2011-04-01,2011-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,3.189509,E,
+CYP,2012-04-01,2012-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,1.325802,E,
+CYP,2013-04-01,2013-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,0.495509,E,
+CYP,2014-04-01,2014-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,-2.049307,E,
+CYP,2015-04-01,2015-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,1.447224,E,
+CYP,2016-04-01,2016-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,-4.561253,E,
+CYP,2017-04-01,2017-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,3.132480,E,
+CYP,2018-04-01,2018-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,-0.221998,E,
+CYP,2019-04-01,2019-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,2.902508,E,
+CYP,2020-04-01,2020-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,-1.316953,E,
+CYP,2021-04-01,2021-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,-0.814857,E,
+CYP,2022-04-01,2022-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,11.003112,E,
+CYP,2023-04-01,2023-04-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,6.711895,E,
+CYP,2001-05-01,2001-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,0.857010,E,
+CYP,2002-05-01,2002-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,5.116838,E,
+CYP,2003-05-01,2003-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,7.503734,E,
+CYP,2004-05-01,2004-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,2.966898,E,
+CYP,2005-05-01,2005-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,-0.452453,E,
+CYP,2006-05-01,2006-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,6.122902,E,
+CYP,2007-05-01,2007-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,7.327461,E,
+CYP,2008-05-01,2008-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,6.394300,E,
+CYP,2009-05-01,2009-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,6.866152,E,
+CYP,2010-05-01,2010-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,-3.807409,E,
+CYP,2011-05-01,2011-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,6.036118,E,
+CYP,2012-05-01,2012-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,0.419939,E,
+CYP,2013-05-01,2013-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,0.580810,E,
+CYP,2014-05-01,2014-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,-1.562981,E,
+CYP,2015-05-01,2015-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,0.148612,E,
+CYP,2016-05-01,2016-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,-1.549406,E,
+CYP,2017-05-01,2017-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,1.290650,E,
+CYP,2018-05-01,2018-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,1.023377,E,
+CYP,2019-05-01,2019-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,-0.724998,E,
+CYP,2020-05-01,2020-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,3.651461,E,
+CYP,2021-05-01,2021-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,-1.746936,E,
+CYP,2022-05-01,2022-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,8.575639,E,
+CYP,2023-05-01,2023-05-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,8.377816,E,
+CYP,2001-06-01,2001-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,7.414210,E,
+CYP,2002-06-01,2002-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,1.709863,E,
+CYP,2003-06-01,2003-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,5.220315,E,
+CYP,2004-06-01,2004-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,5.802220,E,
+CYP,2005-06-01,2005-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,-0.794786,E,
+CYP,2006-06-01,2006-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,6.087841,E,
+CYP,2007-06-01,2007-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,4.027629,E,
+CYP,2008-06-01,2008-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,7.687272,E,
+CYP,2009-06-01,2009-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,6.877985,E,
+CYP,2010-06-01,2010-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,-2.299504,E,
+CYP,2011-06-01,2011-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,8.507984,E,
+CYP,2012-06-01,2012-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,-4.177205,E,
+CYP,2013-06-01,2013-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,4.199328,E,
+CYP,2014-06-01,2014-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,-0.913487,E,
+CYP,2015-06-01,2015-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,-2.742485,E,
+CYP,2016-06-01,2016-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,-0.241945,E,
+CYP,2017-06-01,2017-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,-0.777414,E,
+CYP,2018-06-01,2018-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,3.865979,E,
+CYP,2019-06-01,2019-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,-0.972705,E,
+CYP,2020-06-01,2020-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,0.621429,E,
+CYP,2021-06-01,2021-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,-0.527941,E,
+CYP,2022-06-01,2022-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,7.941118,E,
+CYP,2023-06-01,2023-06-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,10.121533,E,
+CYP,2001-07-01,2001-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,0.571215,E,
+CYP,2002-07-01,2002-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,3.398510,E,
+CYP,2003-07-01,2003-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,5.574066,E,
+CYP,2004-07-01,2004-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,7.650972,E,
+CYP,2005-07-01,2005-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,-0.301085,E,
+CYP,2006-07-01,2006-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,4.939404,E,
+CYP,2007-07-01,2007-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,6.312195,E,
+CYP,2008-07-01,2008-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,7.378177,E,
+CYP,2009-07-01,2009-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,4.016751,E,
+CYP,2010-07-01,2010-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-0.764111,E,
+CYP,2011-07-01,2011-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,6.830601,E,
+CYP,2012-07-01,2012-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,-1.519027,E,
+CYP,2013-07-01,2013-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,1.904462,E,
+CYP,2014-07-01,2014-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,-0.316627,E,
+CYP,2015-07-01,2015-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,-5.469476,E,
+CYP,2016-07-01,2016-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,9.743507,E,
+CYP,2017-07-01,2017-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,-5.816512,E,
+CYP,2018-07-01,2018-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,2.397156,E,
+CYP,2019-07-01,2019-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,-1.616903,E,
+CYP,2020-07-01,2020-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,-1.451906,E,
+CYP,2021-07-01,2021-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,4.020872,E,
+CYP,2022-07-01,2022-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,7.524343,E,
+CYP,2023-07-01,2023-07-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,9.897548,E,
+CYP,2001-08-01,2001-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,4.621769,E,
+CYP,2002-08-01,2002-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,4.715110,E,
+CYP,2003-08-01,2003-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,3.934567,E,
+CYP,2004-08-01,2004-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,5.376077,E,
+CYP,2005-08-01,2005-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,1.194875,E,
+CYP,2006-08-01,2006-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,4.386684,E,
+CYP,2007-08-01,2007-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,7.861183,E,
+CYP,2008-08-01,2008-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,6.683850,E,
+CYP,2009-08-01,2009-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,-0.708156,E,
+CYP,2010-08-01,2010-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,5.781171,E,
+CYP,2011-08-01,2011-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,1.515031,E,
+CYP,2012-08-01,2012-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,2.469136,E,
+CYP,2013-08-01,2013-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,-1.166692,E,
+CYP,2014-08-01,2014-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,-1.026155,E,
+CYP,2015-08-01,2015-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,-2.276271,E,
+CYP,2016-08-01,2016-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,5.562640,E,
+CYP,2017-08-01,2017-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,-3.407551,E,
+CYP,2018-08-01,2018-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,3.397474,E,
+CYP,2019-08-01,2019-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,-3.188912,E,
+CYP,2020-08-01,2020-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,0.680817,E,
+CYP,2021-08-01,2021-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,8.223946,E,
+CYP,2022-08-01,2022-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,2.315538,E,
+CYP,2023-08-01,2023-08-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,9.950606,E,
+CYP,2001-09-01,2001-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,6.754703,E,
+CYP,2002-09-01,2002-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,3.488476,E,
+CYP,2003-09-01,2003-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,6.741766,E,
+CYP,2004-09-01,2004-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,1.756223,E,
+CYP,2005-09-01,2005-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,3.610165,E,
+CYP,2006-09-01,2006-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,5.288325,E,
+CYP,2007-09-01,2007-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,6.572550,E,
+CYP,2008-09-01,2008-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,9.079744,E,
+CYP,2009-09-01,2009-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,-2.871160,E,
+CYP,2010-09-01,2010-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,7.145814,E,
+CYP,2011-09-01,2011-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,-0.324575,E,
+CYP,2012-09-01,2012-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,2.318189,E,
+CYP,2013-09-01,2013-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,-1.470031,E,
+CYP,2014-09-01,2014-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,-0.653695,E,
+CYP,2015-09-01,2015-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,-1.470816,E,
+CYP,2016-09-01,2016-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,3.064404,E,
+CYP,2017-09-01,2017-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,-2.822266,E,
+CYP,2018-09-01,2018-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,3.597628,E,
+CYP,2019-09-01,2019-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,-2.279562,E,
+CYP,2020-09-01,2020-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,2.253325,E,
+CYP,2021-09-01,2021-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,1.465877,E,
+CYP,2022-09-01,2022-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,7.692308,E,
+CYP,2023-09-01,2023-09-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,9.968017,E,
+CYP,2001-10-01,2001-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,10.045104,E,
+CYP,2002-10-01,2002-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,-0.503800,E,
+CYP,2003-10-01,2003-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,5.509784,E,
+CYP,2004-10-01,2004-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,3.050268,E,
+CYP,2005-10-01,2005-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,3.875602,E,
+CYP,2006-10-01,2006-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,5.555931,E,
+CYP,2007-10-01,2007-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,2.986182,E,
+CYP,2008-10-01,2008-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,12.093652,E,
+CYP,2009-10-01,2009-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,-2.996465,E,
+CYP,2010-10-01,2010-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,5.954451,E,
+CYP,2011-10-01,2011-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,1.125528,E,
+CYP,2012-10-01,2012-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,1.228938,E,
+CYP,2013-10-01,2013-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,0.656639,E,
+CYP,2014-10-01,2014-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,-1.395737,E,
+CYP,2015-10-01,2015-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,-0.561582,E,
+CYP,2016-10-01,2016-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,-2.032635,E,
+CYP,2017-10-01,2017-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,0.495701,E,
+CYP,2018-10-01,2018-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,2.939400,E,
+CYP,2019-10-01,2019-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,-3.119499,E,
+CYP,2020-10-01,2020-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,3.219945,E,
+CYP,2021-10-01,2021-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,-0.205359,E,
+CYP,2022-10-01,2022-10-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,13.160216,E,
+CYP,2001-11-01,2001-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,6.475152,E,
+CYP,2002-11-01,2002-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,1.153813,E,
+CYP,2003-11-01,2003-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,6.526587,E,
+CYP,2004-11-01,2004-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,3.357218,E,
+CYP,2005-11-01,2005-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,4.027107,E,
+CYP,2006-11-01,2006-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,4.564512,E,
+CYP,2007-11-01,2007-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,2.721402,E,
+CYP,2008-11-01,2008-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,9.860799,E,
+CYP,2009-11-01,2009-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,2.100875,E,
+CYP,2010-11-01,2010-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,-2.233787,E,
+CYP,2011-11-01,2011-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,7.747113,E,
+CYP,2012-11-01,2012-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,-1.611310,E,
+CYP,2013-11-01,2013-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,-2.116647,E,
+CYP,2014-11-01,2014-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,2.391287,E,
+CYP,2015-11-01,2015-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,0.824726,E,
+CYP,2016-11-01,2016-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,-3.320787,E,
+CYP,2017-11-01,2017-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,0.202593,E,
+CYP,2018-11-01,2018-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,2.921553,E,
+CYP,2019-11-01,2019-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,-1.384933,E,
+CYP,2020-11-01,2020-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,3.705179,E,
+CYP,2021-11-01,2021-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,-3.111794,E,
+CYP,2022-11-01,2022-11-30,50,'196,Cyprus,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,15.463918,E,
+CYP,2001-12-01,2001-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,9.426116,E,
+CYP,2002-12-01,2002-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,0.785407,E,
+CYP,2003-12-01,2003-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,3.745601,E,
+CYP,2004-12-01,2004-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,6.316130,E,
+CYP,2005-12-01,2005-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,-1.162349,E,
+CYP,2006-12-01,2006-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,7.139321,E,
+CYP,2007-12-01,2007-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,3.752311,E,
+CYP,2008-12-01,2008-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,7.981472,E,
+CYP,2009-12-01,2009-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,1.484903,E,
+CYP,2010-12-01,2010-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,-2.812551,E,
+CYP,2011-12-01,2011-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,9.534962,E,
+CYP,2012-12-01,2012-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,-0.610874,E,
+CYP,2013-12-01,2013-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,-0.829748,E,
+CYP,2014-12-01,2014-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,-2.246669,E,
+CYP,2015-12-01,2015-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,1.545411,E,
+CYP,2016-12-01,2016-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,0.760992,E,
+CYP,2017-12-01,2017-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,-4.276642,E,
+CYP,2018-12-01,2018-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,2.104281,E,
+CYP,2019-12-01,2019-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,1.796954,E,
+CYP,2020-12-01,2020-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,0.369004,E,
+CYP,2021-12-01,2021-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,-0.188792,E,
+CYP,2022-12-01,2022-12-31,50,'196,Cyprus,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,12.573420,E,
